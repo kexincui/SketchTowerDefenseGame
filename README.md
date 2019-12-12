@@ -13,7 +13,7 @@ Click build setting under File menu. Select the platform, add open scenes (Start
 # Build and Run on IOS.
 Click build setting under File menu. Select the platform, add open scenes (StartMenu and FirstScene) and build the code. Then, you should copy the the Assest/Data to "path to player app bundle/AppName.app/Data" (The previous Data folder should be under the latter folder Data). Then, open the folder "path to player app bundle/AppName.app", run the xcodeproj with XCode, log in with an Apple Acount, change Bunder Identifier and turn automatic signing on. After that, you can connect to you iOS device and build the game on your device. After building, you can, finally, run the game .
 
-
-
-![](demo.mp4)
+<video width="320" height="240" controls>
+  <source src="demo.mp4" type="video/mp4">
+</video>
 
